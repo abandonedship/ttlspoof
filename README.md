@@ -1,4 +1,5 @@
 # ttlspoof
+Spoof TTL value to avoid common Os Identifier based on icmp packets.  
 
 <pre>
 
